@@ -1,1 +1,1 @@
-# gostack-challenges
+## First challenges
